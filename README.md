@@ -29,3 +29,7 @@ Console.log("Hello World");
 ```python
 print("Hello World")
 ```
+
+```html
+<p>Hello World</p>
+```
