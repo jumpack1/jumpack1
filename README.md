@@ -12,6 +12,6 @@ Me llamo Álvaro Zavala y estudió en la Facultad de Informática de la UAQ
     - Warzone
 - Ver series
 
-## Mi Mascotas
+## Mi Mascotass
 
 ![Foto de mi mascota](giphy.gif)
